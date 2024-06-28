@@ -1,1 +1,1 @@
-# algorithms
+Welcome to my Algorithms college subject repository! Here you'll find a collection of practical implementations and examples of algorithms. This space is dedicated to learning and practicing programming for the Bachelor's Software Engeeniring course.
